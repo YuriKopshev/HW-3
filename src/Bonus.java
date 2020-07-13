@@ -1,7 +1,7 @@
 public class Bonus {
     public static void main(String[] args) {
-        double TicketPrice = 99.56;
-        int BonusMiles = (int) (TicketPrice / 20);
-        System.out.println(BonusMiles);
+        double ticketprice = 3000.35;
+        int bonusMiles = (int) (ticketprice / 20);
+        System.out.println(bonusMiles);
     }
 }
